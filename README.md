@@ -1,0 +1,2 @@
+Our project is a smart garden monitoring and control system designed to optimize plant growth through automated and remote management. Utilizing an ESP32 microcontroller, the system integrates sensors to measure soil moisture, light intensity, and temperature. These sensors provide real-time data to the Ubidots IoT platform via the MQTT protocol, allowing users to monitor garden conditions remotely.
+The sketch of project: https://wokwi.com/projects/401291882416838657
