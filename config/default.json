@@ -1,0 +1,9 @@
+{
+    "project": {
+      "dbConfig": {
+        "host": "localhost",
+        "port": 5984,
+        "dbName": "mongodb+srv://akimbetovaaa:wojfsJJuG2M0e1UO@cluster0.ojylcae.mongodb.net/?retryWrites=true&w=majority"
+      }
+    }
+  }
